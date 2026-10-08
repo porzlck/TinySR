@@ -1,0 +1,30 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# Python 虚拟环境
+.venv/
+venv/
+env/
+.env
+
+# 训练数据
+data/
+
+# 模型权重和检查点
+checkpoints/
+*.pt
+*.pth
+
+# VS Code 配置
+.vscode/
+
+# 临时输出图片
+restored.png
+output.png
+bilinear.png
+hr_image.png
+
+# 系统文件
+.DS_Store
+Thumbs.db
